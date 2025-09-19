@@ -1,0 +1,7 @@
+cloudrun-app-a/dsights-golden-test-99-*.json
+cloudrun-app-a/google-cloud-sdk*
+*.tar.gz
+*.log
+*.ipynb
+react-frontend/node_modules/
+react-frontend/build/

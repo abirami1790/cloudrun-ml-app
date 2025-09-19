@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dsights-golden-test-99",
+  "private_key_id": "dee763816808d21092cdb52d3f06e801ab3c9bfb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfhqzKJ0J7frrF\nJMYabhMmrYQSMoGWhUVd0sM39J4CMwteGlQyu9BcMF5ZasDwisq6XXTM/BVDrpo6\ndJRJiuBfBIj+JkWRbSU03cYH712rKDA1AUFaADxMmHoyEJW7St8VsvsQSo+/WxaZ\nnU7uKZX63Tmjjd9FlKa3rIBrW9vi4yJ4SM5jf25NM0gjPwufHI17OTMPG4dxJsbD\n8f3JzHndYxyYhIQKPN/nxSNo6gXa9RupqN7r5nToZ39HABKHEUUXJLRTljIAVK3T\nm1xAtvC9m5Aei4fCkmApLKuPyu3TQJ+fkzkowdua98oidLAZxK8rCr8XI0gd5NLT\nd5VyXU7XAgMBAAECggEATdRA3OfGkcXEjYZheGeXxFkHhHFLtAoVS68WO2iG5n/M\n3f5uccob375habKhqzmrqr0JzTB3l2vKJxbVegPdb74gsA4wBsF/U4mXoitwQZ77\n1gBkx+oxgRUrGN3qj1P5/vYxc0NNWoiwQAX1ilCTsa7Y/iirc6EQra/lf3tzjf+J\nS1a7B9EF6m86MV2WGqFph/fLLtPrGrmJ7fpWFTog/YI3xhL/q3MZObb8kNeZvDZI\nsYpxqAA7ew/bhrA3NVeu30rmTyUSIbQqEbWXbsGNzOrbp5HC4xJ4qpGL17vY0+Zs\nDXXtoI/Bxd7XZHhbGkYwXE9MIIcIVDEfQ0mgP1jVQQKBgQDVKuA3VUcQPmJM06tq\nxr0TYLyvDNLU9PUpT3VHKztJTSQW7KzXeSud2ZJRlKXcQJ3Axe4txICM4qxrZNn+\njNm6klf2Dyrn6zFYrGumZtP2/VKv4XpFcX30vBnuMLKUWALpxd8KNO3l2rSQLesP\nKJQ/l+pC6tGjYR2BoZmNji4e0QKBgQC/lInEHJ2ORwNKH0RmcatcgBgnJP3J9H6R\nf0ceCPCcB5j0+73ARmyz8xIea7dKm3IraZKqeRC4pUH3cJ5aQxXElxKMEO0c1vDs\n7ObXjkPp9WDoKVwuJlBsJ4LPvoDMQ8MRLG1de3qnGR0nQe41tseHjub2e12plF27\nU2Q1IuYNJwKBgAtLCjXkPq+NnoeTbzFo9ftg1J4xf7nogFR/8SakE6/+djsArud7\nc+QY8rd/uInCopjj44ppLqZIG/pUjXf+3koUFrTieNNwklywRcO7Dt+26/qFZ4Tm\nTlX44SbNTaiuQPlBkl9oDnJu88HvrNRQwgnccny5FAIj0vxbI1dsgOUBAoGAPTir\neccnNkNNMs+hHRewCiRJE6FHlNUT6U0CHf//W+01nPwhnCMlM7A2lxAXB7l7F5Jq\nMx3zEP6GgRs1D2UmvKcGX0o9a5zoat4dur6Ux1wJtscY1QqbYqSRse+P2zbATGml\nHV2LSYDGBziTdgjN5GzvM88ilEF8XpN8j1pyp7sCgYEA0TBeCgTTewjlO740OpLL\n2G9O7pX7k+30yyMlN4JmFOl6jTut79DwElHhOAvYhmfhY+/EOsMjkfij6O+71iXv\nHtNvSiO0X2hE7Xh3VnQ8dmWIFurKWecfuz6X9edvNI6QDdDl8KmNOOX56Q3dpFCK\nJH7BNSjhSg8lMRziFywM/sc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-action-1060074506@dsights-golden-test-99.iam.gserviceaccount.com",
+  "client_id": "114837656110489387495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-action-1060074506%40dsights-golden-test-99.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

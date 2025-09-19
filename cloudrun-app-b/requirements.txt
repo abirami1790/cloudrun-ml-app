@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+firebase-admin
+google-auth
+requests
+joblib
+pydantic
+scikit-learn
