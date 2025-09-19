@@ -5,3 +5,4 @@ cloudrun-app-a/google-cloud-sdk*
 *.ipynb
 react-frontend/node_modules/
 react-frontend/build/
+react-frontend/key.json
